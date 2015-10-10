@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>levels/levels.xml</file>
+        <file>levels/invLinesLevels.xml</file>
+        <file>levels/limitedMovementsLevels.xml</file>
+    </qresource>
+</RCC>

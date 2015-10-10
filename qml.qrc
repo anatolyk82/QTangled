@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MenuIconLive.qml</file>
+        <file>qml/MainMenu.qml</file>
+        <file>qml/PageSettings.qml</file>
+        <file>qml/MyPage.qml</file>
+        <file>qml/PageSimpleGameLevels.qml</file>
+        <file>qml/PageAbout.qml</file>
+        <file>qml/PageSimpleGame.qml</file>
+        <file>qml/GameStorage.qml</file>
+        <file>qml/MyLine.qml</file>
+        <file>qml/DragPoint.qml</file>
+        <file>qml/engine.js</file>
+        <file>qml/storeLines.js</file>
+        <file>qml/storePoints.js</file>
+        <file>qml/VisualTimer.qml</file>
+        <file>qml/PageInvLinesGame.qml</file>
+        <file>qml/PageInvLinesGameLevels.qml</file>
+        <file>qml/PageLimitedMovementsGameLevels.qml</file>
+        <file>qml/PageLimitedMovementsGame.qml</file>
+        <file>qml/DialogEndGame3.qml</file>
+    </qresource>
+</RCC>

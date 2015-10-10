@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/shadow_circle.png</file>
+        <file>images/shadow_long.png</file>
+        <file>images/shadow_title.png</file>
+        <file>images/shadow_rectangle.png</file>
+        <file>images/QTangled.png</file>
+        <file>images/icon_replay.png</file>
+        <file>images/icon_close.png</file>
+        <file>images/icon_go_right.png</file>
+        <file>images/icon_add.png</file>
+        <file>images/icon_cap.png</file>
+        <file>images/icon_menu.png</file>
+        <file>images/icon_game.png</file>
+        <file>images/icon_info.png</file>
+        <file>images/icon_settings.png</file>
+        <file>images/dots6.png</file>
+        <file>images/dots9.png</file>
+        <file>images/dots12.png</file>
+        <file>images/dots16.png</file>
+        <file>images/dots20.png</file>
+        <file>images/icon_time.png</file>
+        <file>images/icon_keyboard.png</file>
+        <file>images/icon_music.png</file>
+        <file>images/QTangled_small.png</file>
+        <file>images/lollipop_bottom_middle.png</file>
+        <file>images/lollipop_top_left.png</file>
+        <file>images/lollipop_top_right.png</file>
+    </qresource>
+</RCC>
